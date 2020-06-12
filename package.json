@@ -1,0 +1,14 @@
+{
+   "name": "startlinkApi",
+   "version": "1.0.0",
+   "description": "All startlink postion in real time",
+   "main": "index.js",
+   "author": "Alfonso Lasa",
+   "license": "MIT",
+   "dependencies": {
+      "puppeteer": "^3.3.0"
+   },
+   "scripts": {
+      "start": "node ./index.js"
+   }
+}
